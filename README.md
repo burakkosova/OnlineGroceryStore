@@ -3,7 +3,7 @@
 ## Veritabanı
 Bu projede fotoğraftaki gibi bir veri tabanı tasarımı yapılmıştır. Veri tabanı smarterasp.net adresinde host edilmektedir.
 
-![Veritabanı Diyagramı](image.jpg)
+![Veritabanı Diyagramı](https://github.com/burakkosova/OnlineGroceryStore/blob/main/Figures/DbDesign.png)
 
 <br>
 
