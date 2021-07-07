@@ -1,0 +1,9 @@
+C:\Users\burak\source\repos\OnlineGroceryStore\Utilities\bin\Debug\Utilities.dll
+C:\Users\burak\source\repos\OnlineGroceryStore\Utilities\bin\Debug\Utilities.pdb
+C:\Users\burak\source\repos\OnlineGroceryStore\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\OnlineGroceryStore\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\OnlineGroceryStore\Utilities\obj\Debug\Utilities.dll
+C:\Users\burak\source\repos\OnlineGroceryStore\Utilities\obj\Debug\Utilities.pdb
+C:\Users\burak\source\repos\OnlineGroceryStore\Utilities\bin\Debug\Entities.dll
+C:\Users\burak\source\repos\OnlineGroceryStore\Utilities\bin\Debug\Entities.pdb
+C:\Users\burak\source\repos\OnlineGroceryStore\Utilities\obj\Debug\Utilities.csproj.CopyComplete

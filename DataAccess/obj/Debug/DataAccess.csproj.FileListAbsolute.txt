@@ -1,0 +1,9 @@
+C:\Users\burak\source\repos\OnlineGroceryStore\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\burak\source\repos\OnlineGroceryStore\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\burak\source\repos\OnlineGroceryStore\DataAccess\bin\Debug\Entities.dll
+C:\Users\burak\source\repos\OnlineGroceryStore\DataAccess\bin\Debug\Entities.pdb
+C:\Users\burak\source\repos\OnlineGroceryStore\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\OnlineGroceryStore\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\burak\source\repos\OnlineGroceryStore\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\burak\source\repos\OnlineGroceryStore\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\burak\source\repos\OnlineGroceryStore\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache

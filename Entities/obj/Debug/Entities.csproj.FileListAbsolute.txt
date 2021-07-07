@@ -1,0 +1,12 @@
+C:\Users\burak\Downloads\DashboardUI\DashboardUI\Entities\bin\Debug\Entities.dll
+C:\Users\burak\Downloads\DashboardUI\DashboardUI\Entities\bin\Debug\Entities.pdb
+C:\Users\burak\Downloads\DashboardUI\DashboardUI\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\burak\Downloads\DashboardUI\DashboardUI\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\burak\Downloads\DashboardUI\DashboardUI\Entities\obj\Debug\Entities.dll
+C:\Users\burak\Downloads\DashboardUI\DashboardUI\Entities\obj\Debug\Entities.pdb
+C:\Users\burak\source\repos\OnlineGroceryStore\Entities\bin\Debug\Entities.dll
+C:\Users\burak\source\repos\OnlineGroceryStore\Entities\bin\Debug\Entities.pdb
+C:\Users\burak\source\repos\OnlineGroceryStore\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\OnlineGroceryStore\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\OnlineGroceryStore\Entities\obj\Debug\Entities.dll
+C:\Users\burak\source\repos\OnlineGroceryStore\Entities\obj\Debug\Entities.pdb
